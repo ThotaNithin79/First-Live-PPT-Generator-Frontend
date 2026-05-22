@@ -153,17 +153,16 @@ Business Impact:
 ## Media Asset Listing
 <img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/91bf7a9a-3d7a-40bb-b7e7-029e7ee87b06" />
 
-## Quotation Creation
-
-*Add quotation creation screenshot here*
-
 ## PPT Generation
 
-*Add PPT generation screenshot here*
+<img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/0c7264b1-639c-46e1-b624-7e412adc8545" />
+
 
 ## Generated Presentation
 
-*Add generated PPT screenshot here*
+<img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/d8fca439-2134-4631-953a-a373595b7b7c" />
+<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/91cb4ce2-65cb-4ac5-b3b1-3241dda86968" />
+
 
 ---
 
