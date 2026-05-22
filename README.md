@@ -171,7 +171,8 @@ Business Impact:
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ThotaNithin79/First-Live-PPT-Generator-Frontend.git
+git clone https://github.com/ThotaNithin79/First-Live-PPT-Generator-Backend.git
 ```
 
 ---
@@ -181,13 +182,13 @@ git clone <your-repository-url>
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 Frontend runs on:
 
 ```text
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
